@@ -5,11 +5,9 @@
 这是一个优雅的wordpress主题，由Anyway制作并应用在自己的个人博客（[http://sunanyway.com/](http://sunanyway.com/ "sunanyway.com")上）。
 主题基于wordpress自带的主题TwentyEleven修改完成。
 
-**演示地址：**[http://sunanyway.com/](http://sunanyway.com/ "sunanyway.com")
-
-**关于我：**[http://sunanyway.com/about/](http://sunanyway.com/about/ "About the author")
-
-**联系我：**anywaysun@gmail.com
++ **演示地址：**[http://sunanyway.com/](http://sunanyway.com/ "sunanyway.com")
++ **关于我：**[http://sunanyway.com/about/](http://sunanyway.com/about/ "About the author")
++ **联系我：**anywaysun@gmail.com
 
 ## 安装指南
 
