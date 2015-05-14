@@ -1,4 +1,4 @@
-# sunanyway.com-wordpress-theme
+# AnywayTheme
 
 ## 说明
 
