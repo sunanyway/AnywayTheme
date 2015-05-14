@@ -6,7 +6,9 @@
 主题基于wordpress自带的主题TwentyEleven修改完成。
 
 **演示地址：**[http://sunanyway.com/](http://sunanyway.com/ "sunanyway.com")
+
 **关于我：**[http://sunanyway.com/about/](http://sunanyway.com/about/ "About the author")
+
 **联系我：**anywaysun@gmail.com
 
 ## 安装指南
@@ -19,13 +21,13 @@
 
 ### 2. 启用以下插件
 
-必需：
+**必需：**
 + 多说
 + 无觅相关文章插件
 + WP-PageNavi分页导航
 + WP-PostViews
 
-可选：
+**可选：**
 + 百度sitemap
 + Pinyin SEO(拼音SEO)
 + WordPress Importer
