@@ -6,7 +6,7 @@
  * @subpackage Twenty_Eleven
  * @since Twenty Eleven 1.0
  */
-
+/*
 $options = twentyeleven_get_theme_options();
 $current_layout = $options['theme_layout'];
 
@@ -49,3 +49,4 @@ if ( 'content' != $current_layout ) :
 			<?php endif; // end sidebar widget area ?>
 		</div><!-- #secondary .widget-area -->
 <?php endif; ?>
+*/
