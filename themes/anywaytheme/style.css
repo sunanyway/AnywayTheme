@@ -43,7 +43,7 @@ ol, ul {
 	list-style: none;
 }
 table {/* tables still need 'cellspacing="0"' in the markup */
-	border-collapse: separate;
+	border-bottom: 1px solid gray;border-collapse: separate;
 	border-spacing: 0px 21px;
 }
 
@@ -95,7 +95,7 @@ body {
 	margin: 0 auto;
 	max-width: 643px;
 	padding-bottom: 67px;
-	padding-top: 15px;
+	padding-top: 37px;
 }
 #secondary {
 	float: right;
@@ -536,7 +536,7 @@ a:hover {
 
 #branding {
 	padding-top: 24px;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
 	position: relative;
 	z-index: 9999;
 	background: linear-gradient(#F0FBFF,#fff);
@@ -722,6 +722,11 @@ a:hover {
 	clear: both;
 	padding: 1em 0 0;
 }
+@media (max-width: 650px) {
+	#main {
+		padding: 0;
+	}
+}
 .page-title {
 	display: none;
 	color: #666;
@@ -839,7 +844,7 @@ a:hover {
 .entry-content td,
 .comment-content td {
 	border-top: 1px solid #ddd;
-	padding: 12px 20px 20px 0;
+	padding: 12px 20px 0px 0;
 }
 .entry-content #s {
 	width: 75%;
