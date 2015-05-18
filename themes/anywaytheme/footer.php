@@ -25,11 +25,11 @@
 			<div id="site-generator">
 				<a href="http://sunanyway.com"><button type="button" class="button white">回到首页</button></a><br/>
 				<a href="http://sunanyway.com/about/">关于我</a> | 加我 ↓↓↓<br/>
-				<a href="http://sunanyway.com/about/" target="_blank"><img src="/wp-content/themes/twentyeleven/images/weixin.png" /></a>
-				<a href="http://weibo.com/sunanyway" target="_blank"><img src="/wp-content/themes/twentyeleven/images/weibo.png" /></a>
-				<a href="http://renren.com/sunanyway" target="_blank"><img src="/wp-content/themes/twentyeleven/images/renren.png" /></a>
-				<a href="http://www.douban.com/people/sunanyway/" target="_blank"><img src="/wp-content/themes/twentyeleven/images/douban.png" /></a>
-				<a href="http://www.zhihu.com/people/sunanyway" target="_blank"><img src="/wp-content/themes/twentyeleven/images/zhihu.png" /></a>
+				<a href="http://sunanyway.com/about/" target="_blank"><img src="/wp-content/themes/anywaytheme/images/weixin.png" /></a>
+				<a href="http://weibo.com/sunanyway" target="_blank"><img src="/wp-content/themes/anywaytheme/images/weibo.png" /></a>
+				<a href="http://renren.com/sunanyway" target="_blank"><img src="/wp-content/themes/anywaytheme/images/renren.png" /></a>
+				<a href="http://www.douban.com/people/sunanyway/" target="_blank"><img src="/wp-content/themes/anywaytheme/images/douban.png" /></a>
+				<a href="http://www.zhihu.com/people/sunanyway" target="_blank"><img src="/wp-content/themes/anywaytheme/images/zhihu.png" /></a>
 				<br/>
 				Powered by <a href="http://wordpress.org/" target="_blank">Wordpress</a> | Theme by <a target="_blank" href="http://sunanyway.com">Anyway</a>
 			</div>
@@ -39,7 +39,7 @@
 <?php wp_footer(); ?>
 
 <!-- jquery -->
-<script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script>
+<!-- <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.8.0.js"></script> -->
 
 <!-- 导航悬浮 -->
 <!-- 
